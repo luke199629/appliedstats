@@ -12,7 +12,7 @@ After reading this chapter you will be able to:
 - Formulate and interpret interval estimates for the mean response under various conditions.
 - Compare nested models using an ANOVA F-Test.
 
-The last two chapters we saw how to fit a model that assumed a linear relationship between a response variable and a single predictor variable. Specifically, we defined the simple linear regression model,
+The last two chapters we saw explained how to fit a model that assumed a linear relationship between a response variable and a single predictor variable. Specifically, we defined the simple linear regression model,
 
 \[
 Y_i = \beta_0 + \beta_1 x_i + \epsilon_i
